@@ -19,7 +19,7 @@ This repository contains the official implementation of the following paper:
 [Project Page (TBD)]
 [Poster (TBD)]
 
-You can try our colab demo here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12rwY2gtG8jVWlNx9pjmmM8uGmh5ue18G?usp=sharing)
+You can try our colab demo here: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/12Is_-R8LQnY6NEcqX1ovWNa8nnZB18Oz#scrollTo=YhFe3CJGAIiV=sharing)
 
 ## :star: News
 - *2022.05.15:* We release E<sup>2</sup>FGVI-HQ, which can handle videos with **arbitrary resolution**. This model could generalize well to much higher resolutions, while it only used 432x240 videos for training. Besides, it performs **better** than our original model on both PSNR and SSIM metrics. 
